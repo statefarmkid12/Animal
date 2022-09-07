@@ -1,5 +1,38 @@
-.intro{
+.Intro{
     background-color: gray;
     color: white;
+    top: 0;
+    width: 100%;
+    margin-top: 0%;
+}
+
+body{
+    font-family: 'Playfair Display', serif;
+    background-color:aliceblue
+
+}
+
+.note{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-size: 14px;
+}
+
+.Start{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight:bold;
+    width: 150px;
+    letter-spacing: 1px;
+}
+
+.copy_right_footer{
+   background-color: gray;
+   width: 100%;
+   bottom: 0;
+   position:fixed;
+   line-height: 45px;
+   text-align: center; 
+   font-size: 18px;
 }
 
